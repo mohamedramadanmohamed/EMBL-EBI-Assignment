@@ -1,0 +1,15 @@
+com\ebi\ass\model\JwtRequest.class
+com\ebi\ass\exception\PersonNotFoundException.class
+com\ebi\ass\service\JwtUserDetailsService.class
+com\ebi\ass\config\JwtRequestFilter.class
+com\ebi\ass\utils\EncodingUtil.class
+com\ebi\ass\config\JwtTokenUtil.class
+com\ebi\ass\AssApplication.class
+com\ebi\ass\dao\PersonRepository.class
+com\ebi\ass\model\Person.class
+com\ebi\ass\config\JwtAuthenticationEntryPoint.class
+com\ebi\ass\controller\PersonController.class
+com\ebi\ass\service\PersonService.class
+com\ebi\ass\config\WebSecurityConfig.class
+com\ebi\ass\model\JwtResponse.class
+com\ebi\ass\controller\JwtAuthenticationController.class
